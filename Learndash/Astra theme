@@ -1,0 +1,6 @@
+Custom Work File Path :
+LearnDash customization and Astra theme customization and put code in child theme 
+
+1. wp-content/plugins/sfwd-lms/includes/admin/classes-data-reports-actions/class-learndash-admin-data-reports-user-quizzes.php
+
+2. wp-content/themes/astra-child/functions.php
